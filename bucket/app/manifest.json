@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "TestTECHPub",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "TESTTECHPUB",
+  "description": "My blog description goes here...and this is the description i am giving and editing",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
