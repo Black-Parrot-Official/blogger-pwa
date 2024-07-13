@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'TestTECHPub',
+  shortName: 'TESTTECHPUB',
+  description: 'My blog description goes here...and this is the description i am giving and editing',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -33,12 +33,12 @@ export default {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: 'fb5648b3-ac56-4549-8fc2-15f035b9fdc7',
       allowLocalhostAsSecureOrigin: true,
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.parrotocommunity.eu.org/',
 } satisfies Config;
