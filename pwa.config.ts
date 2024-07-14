@@ -1,7 +1,7 @@
 import type { Config } from './types';
 
 export default {
-  version: '1.1.2',
+  version: '1.1.3',
   id: '/',
   name: 'TechPUB',
   shortName: 'TechPUB',
