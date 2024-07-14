@@ -1,11 +1,11 @@
 import type { Config } from './types';
 
 export default {
-  version: '1.1',
+  version: '1.1.2',
   id: '/',
-  name: 'TestTECHPub',
-  shortName: 'TESTTECHPUB',
-  description: 'My blog description goes here...and this is the description i am giving and editing',
+  name: 'TechPUB',
+  shortName: 'TechPUB',
+  description: 'Welcome to Tech Pub, your premier destination for all things tech! Whether you are a gadget enthusiast, a gaming aficionado, or someone who loves staying updated with the latest technology trends, we have something for you. ',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -18,16 +18,34 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Trending',
+      shortName: 'Trending',
+      description: 'Discover whats buzzing! Check out the hottest topics and articles trending now.',
+      url: '/search/label/Trending?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Games',
+      shortName: 'Games',
+      description: 'Get the latest news on free games and updates!',
+      url: '/search/label/Games?utm_source=homescreen',
+    },
+    {
+      name: 'Reviews',
+      shortName: 'Reviews',
+      description: 'Unbiased reviews of the latest tech gadgets and games!',
+      url: '/search/label/Reviews?utm_source=homescreen',
+    },
+    {
+      name: 'Free URL Shortener',
+      shortName: 'URL Shortener',
+      description: 'Shorten URLs for free. Easy, fast, and reliable.',
+      url: '/p/free-url-shortener.html?utm_source=homescreen',
+    },
+    {
+      name: 'QR Generator',
+      shortName: 'QR Generator',
+      description: 'Generate free QR codes instantly. Customize and download for any purpose.',
+      url: '/p/free-qr-code-generator.html?utm_source=homescreen',
     },
   ],
   pwa: {
