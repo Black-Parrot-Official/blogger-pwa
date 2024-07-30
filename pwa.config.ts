@@ -1,7 +1,7 @@
 import type { Config } from './types';
 
 export default {
-  version: '1.1.3',
+  version: '1.4.0',
   id: '/',
   name: 'TechPUB',
   shortName: 'TechPUB',
@@ -53,10 +53,10 @@ export default {
     // OneSignal is not available if you are not using cloudflare workers
     oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: 'fb5648b3-ac56-4549-8fc2-15f035b9fdc7',
+      appId: '67e959ba-adff-43b3-a194-b5b3a0e98a79',
       allowLocalhostAsSecureOrigin: true,
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.parrotocommunity.eu.org/',
+  origin: 'https://www.techpub.eu.org/',
 } satisfies Config;
