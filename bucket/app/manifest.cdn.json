@@ -3,12 +3,12 @@
   "id": "/",
   "short_name": "TechPUB",
   "description": "Welcome to Tech Pub, your premier destination for all things tech! Whether you are a gadget enthusiast, a gaming aficionado, or someone who loves staying updated with the latest technology trends, we have something for you. ",
-  "version": "1.1.3",
+  "version": "1.4.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://www.parrotocommunity.eu.org/?utm_source=homescreen",
-  "scope": "https://www.parrotocommunity.eu.org/",
+  "start_url": "https://www.techpub.eu.org/?utm_source=homescreen",
+  "scope": "https://www.techpub.eu.org/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -119,7 +119,7 @@
       "name": "Trending",
       "short_name": "Trending",
       "description": "Discover whats buzzing! Check out the hottest topics and articles trending now.",
-      "url": "https://www.parrotocommunity.eu.org/search/label/Trending?utm_source=homescreen",
+      "url": "https://www.techpub.eu.org/search/label/Trending?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "Games",
       "short_name": "Games",
       "description": "Get the latest news on free games and updates!",
-      "url": "https://www.parrotocommunity.eu.org/search/label/Games?utm_source=homescreen",
+      "url": "https://www.techpub.eu.org/search/label/Games?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -143,7 +143,7 @@
       "name": "Reviews",
       "short_name": "Reviews",
       "description": "Unbiased reviews of the latest tech gadgets and games!",
-      "url": "https://www.parrotocommunity.eu.org/search/label/Reviews?utm_source=homescreen",
+      "url": "https://www.techpub.eu.org/search/label/Reviews?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -155,7 +155,7 @@
       "name": "Free URL Shortener",
       "short_name": "URL Shortener",
       "description": "Shorten URLs for free. Easy, fast, and reliable.",
-      "url": "https://www.parrotocommunity.eu.org/p/free-url-shortener.html?utm_source=homescreen",
+      "url": "https://www.techpub.eu.org/p/free-url-shortener.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -167,7 +167,7 @@
       "name": "QR Generator",
       "short_name": "QR Generator",
       "description": "Generate free QR codes instantly. Customize and download for any purpose.",
-      "url": "https://www.parrotocommunity.eu.org/p/free-qr-code-generator.html?utm_source=homescreen",
+      "url": "https://www.techpub.eu.org/p/free-qr-code-generator.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",

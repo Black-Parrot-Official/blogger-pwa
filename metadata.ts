@@ -1,5 +1,5 @@
 /**
- * This is auto generated metadata file, generated at: Sun Jul 14 2024 09:17:08 GMT+0000 (Coordinated Universal Time)
+ * This is auto generated metadata file, generated at: Tue Jul 30 2024 16:35:45 GMT+0000 (Coordinated Universal Time)
  * Prevent making any changes here
  */
 
@@ -27,5 +27,5 @@ export interface Metadata {
 }
 
 export const metadata = JSON.parse(
-  '{"github":{"repository":"Black-Parrot-Official/blogger-pwa","branch":"main"},"pwa":{"oneSignalEnabled":true,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"fb5648b3-ac56-4549-8fc2-15f035b9fdc7","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"QlAnOChmJgMzNVfYtFOaU"}}',
+  '{"github":{"repository":"Black-Parrot-Official/blogger-pwa","branch":"main"},"pwa":{"oneSignalEnabled":true,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"67e959ba-adff-43b3-a194-b5b3a0e98a79","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"gOBAorx0EHSbLQueNH7t6"}}',
 ) as Metadata;
